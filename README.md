@@ -1,2 +1,2 @@
 # Husocial
-this is just to check out how github works
+and this is to check out how it works.
